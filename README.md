@@ -1,3 +1,5 @@
+#  mock 文档参考:https://github.com/nuysoft/Mock/wiki/Syntax-Specification
+
 # vue-mock
 
 > A Vue.js project
