@@ -1,4 +1,5 @@
-#  mock 文档参考:https://github.com/nuysoft/Mock/wiki/Syntax-Specification
+#  mock 文档参考:
+ https://github.com/nuysoft/Mock/wiki/Syntax-Specification
 
 # vue-mock
 
@@ -20,7 +21,7 @@ npm run build
 npm run build --report
 ```
 # 1.首先安装mockjs  
-# 2.首先在mock文件夹下创建index.js文件，这里就是我们注册所有mock服务的地方  
+# 2.然后在mock文件夹下创建index.js文件，这里就是我们注册所有mock服务的地方  
 # 3.服务注册好之后，在main.js中引入   
  ** // main.js  
  **  require('./mock');  
